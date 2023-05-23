@@ -1,1 +1,3 @@
-Hei
+Hei dere,
+
+Velkommen til Git-kurs
